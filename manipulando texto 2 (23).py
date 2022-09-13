@@ -1,0 +1,6 @@
+frase= str(input('coloque um nome:')).strip()
+nome1 = frase.split()
+print (frase.upper())
+print (frase.lower())
+print ('o numero de caracteres é',len(frase) - frase.count(' '))
+print ('o numero de letras do primeiro nome é',len(nome1[0]))
