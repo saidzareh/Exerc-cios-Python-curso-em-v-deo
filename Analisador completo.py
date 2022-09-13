@@ -22,5 +22,6 @@ for c in range (1,4):
         menor = idade
 print (somai/3,somam)
 
+# VAI CANDAO
 
 
